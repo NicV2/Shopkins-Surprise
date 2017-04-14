@@ -1,0 +1,56 @@
+*{
+	
+	box-sizing: border-box;
+	font-family: "Lakki Reddy", cursive;
+}
+
+h1{
+	font-size: 6em;
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+	width: 100%;
+	margin-top: -1.5em;
+}
+
+
+#buttonImage{
+	display: inline-block;
+	text-align: center;
+	padding: .5em 1.5em;
+	font-size: .75em;
+	color: #e73f8b;
+    
+}
+
+
+#egg{
+	height: 32em;
+	width: 32em;
+	display: inline-block;
+	}
+
+.container{
+	height: 32em;
+	width: 32em;
+	margin: 0 auto;
+	background-image: url("images/apple.jpg");
+	background-repeat: no-repeat;
+	text-align: center;
+	background-position: center;
+	
+}
+
+.placeholder-left{
+    height:20em;
+    width: 20em;
+    float:left;
+}
+
+.placeholder-right{
+	height: 20em;
+	width: 20em;
+	float: right;
+}
